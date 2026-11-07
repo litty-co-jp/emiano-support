@@ -7,6 +7,7 @@ EMIANO（エミアノ）の WordPress プラグインのドキュメントや、
 | 製品 | 有料版 |
 |---|---|
 | [EMIANO PDF Summarizer](pdf-summarizer.md) | [料金・購入（Freemius）](https://checkout.freemius.com/plugin/41083/plan/71246/) |
+| [EMIANO Analytics Ranking](analytics-ranking.md) | — |
 
 ## お困りのときは
 
