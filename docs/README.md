@@ -4,10 +4,10 @@ EMIANO（エミアノ）の WordPress プラグインのドキュメントや、
 
 ## 製品別ドキュメント
 
-| 製品 | 有料版 |
-|---|---|
-| [EMIANO PDF Summarizer](pdf-summarizer.md) | [料金・購入（Freemius）](https://checkout.freemius.com/plugin/41083/plan/71246/) |
-| [EMIANO Analytics Ranking](analytics-ranking.md) | — |
+|　| 製品 | 有料版 |
+|---|---|---|
+| [<img src="https://ps.w.org/emiano-pdf-summarizer/assets/icon-256x256.png?rev=3789832" alt="" width="50">](pdf-summarizer.md) | [EMIANO PDF Summarizer](pdf-summarizer.md) | [料金・購入（Freemius）](https://checkout.freemius.com/plugin/41083/plan/71246/) |
+| [<img src="https://ps.w.org/emiano-analytics-ranking/assets/icon-256x256.png?rev=3789828" alt="" width="50">](analytics-ranking.md) | [EMIANO Analytics Ranking](analytics-ranking.md) | — |
 
 ## お困りのときは
 
